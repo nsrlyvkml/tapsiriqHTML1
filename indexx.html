@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>login</title>
+    <link rel="stylesheet" href="css/web.css">
+  </head>
+  <body>
+
+    <label for="a1"></label>
+    <input type="text" id="a1">
+    <br><br>
+    <label for="b1"></label>
+    <input type="text" id="b1">
+    <br><br>
+    <button onclick="yoxla();">GOSTER</button>
+    <br><br><label for="c1"></label>
+    <input type="text" id="c1">
+
+    <script>
+     var a,b,c;
+      function yoxla() {
+          a=parseInt(document.getElementById("a1").value);
+          b=parseInt(document.getElementById("b1").value);
+          if (a>b) {
+            c=a/b
+            document.getElementById("c1").value=c;
+          }
+          else{
+            document.getElementById("c1").value="sehvdir";
+          }
+      }
+    </script>
+
+  </body>
+</html>

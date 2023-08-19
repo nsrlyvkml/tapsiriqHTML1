@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#headerr{
+    background-color:rgb(157, 240, 239);
+}
+h1{
+    color: white;
+    font-size: 60px;
+}
+#a1{
+    color: rgb(247, 241, 241);
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+#boderr{
+    height: 563px;
+}
+#leftt{
+    background-image: url(../img/ed.az.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 70%;
+    height: 559px;
+    float: left;
+}
+#merkezee{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 56px;
+}
+.dbc{
+    width: 100%;
+    height: 130px;
+}
+.dbc .kvd{
+    width: 180px;   
+    height: 100%;
+    float: left;
+}
+.dbc .yazi{
+    float: left;
+}
+#rightt{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.a2{
+    padding-left: 20px;
+    font-size: 20px;
+    color: rgb(163, 209, 208);
+    text-decoration: none;
+}
+.a3{
+    padding-left: 20px;
+    font-size: 16px;
+}
+#merk{
+    text-align: center;
+    color: white;
+}
+#footerr{
+    background-color:rgb(157, 240, 239);
+    padding: 10px;
+}
+.a2:hover{
+    color: rgb(213, 208, 208);
+}
+
+@media only screen and (max-width:1400px){
+    #boderr{
+        height: 480px;
+    }
+    #leftt{
+        width: 70%;
+        height: 480px;
+        float: left;
+    }
+    #merkezee{
+        width: 90%;
+        height: 90%;
+        margin: auto;
+        margin-top: 56px;
+    }
+    .dbc .kvd{
+        width: 180px;   
+        height: 100%;
+        float: left;
+    }
+    .dbc .yazi{
+        float: none;
+    }
+    #rightt{
+        width: 30%;
+        float: left;
+        height: 100%;
+    }
+    .a2{
+        font-size: 18px;
+        color: rgb(163, 209, 208);
+        text-decoration: none;
+    }
+    .a3{
+        font-size: 16px;
+    }
+    #merk{
+        text-align: center;
+        color: white;
+    }
+    #footerr{
+        background-color:rgb(157, 240, 239);
+        padding: 10px;
+        margin-top: 42px;
+    }
+}
+
+
+@media only screen and (max-width:900px){
+    h1{
+        font-size: 50px;
+    }
+    #a1{
+        font-size: 14px;
+    }
+    #boderr{
+        height: 480px;
+    }
+    #leftt{
+        width: 100%;
+        height: 480px;
+        float: none;
+    }
+    #merkezee{
+        width: 90%;
+        height: 90%;
+        margin: auto;
+        margin-top: 56px;
+    }
+    .dbc .kvd{
+        width: 180px;   
+        height: 100%;
+        float: left;
+    }
+    .dbc .yazi{
+        float: none;
+    }
+    #rightt{
+        width: 90%;
+        float: none;
+        height: 40%;
+        margin: auto;
+    }
+    .a2{
+        font-size: 16px;
+        color: rgb(163, 209, 208);
+        text-decoration: none;
+    }
+    .a3{
+        font-size: 14px;
+    }
+    #merk{
+        text-align: center;
+        color: white;
+    }
+    #footerr{
+        background-color:rgb(157, 240, 239);
+        padding: 10px;
+        margin-top: 192px;
+    }
+}

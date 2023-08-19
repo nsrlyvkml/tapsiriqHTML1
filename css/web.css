@@ -1,0 +1,19 @@
+body{
+  background-color: pink;
+}
+table,th,td{
+  border: 1px solid;
+  border-collapse: collapse;
+  letter-spacing:1px;
+  font-family: sans-serif;
+}
+th,td{
+  padding: 10px
+}
+th{
+  background-color:#0ED1CE;
+}
+td{
+  background-color:#EAEDED;
+  text-align:left;
+}
