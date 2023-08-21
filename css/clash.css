@@ -1,0 +1,117 @@
+body{
+  background-color: antiquewhite;
+}
+.esas{
+  background-color: white;
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 60px;
+}
+.balaca{
+  background-color: black;
+  width: 600px;
+  height: 50px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+p{
+  text-align: center;
+  padding-top: 15px;
+  color: white;
+  letter-spacing: 1px;
+}
+.bir #b1{
+  margin-left: 50px;
+  margin-top: 30px;
+  padding: 6px;
+  border: 0px solid;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.bir #b2{
+  margin-left: 20px;
+  margin-top: 30px;
+  padding: 6px;
+  border: 0px solid;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+b{
+  padding-left: 40px;
+  color: #616A6B ;
+}
+.sol{
+  padding-left: 136px;
+}
+.sag{
+  padding-left: 136px;
+}
+.iki input[type="text"]{
+  margin-left: 24px;
+  margin-top: 20px;
+  padding: 6px;
+  border: 0px solid;
+  width: 360px;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.uc input[type="email"]{
+  margin-left: 50px;
+  margin-top: 20px;
+  padding: 6px;
+  border: 0px solid;
+  width: 360px;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.dord #b3{
+  margin-left: 50px;
+  margin-top: 20px;
+  padding: 6px;
+  border: 0px solid;
+  width: 60px;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.dord #b4{
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 6px;
+  border: 0px solid;
+  width: 264px;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.sag1{
+  padding-left: 40px;
+}
+.bes select{
+  margin-left: 44px;
+  margin-top: 20px;
+  padding: 6px;
+  border: 0px solid;
+  width: 370px;
+  border-radius: 4px;
+  background-color: #E5E7E9 ;
+}
+.alti input[type="radio"]{
+  margin-top: 20px;
+  margin-left: 40px;
+}
+button{
+  padding: 10px 20px;
+  margin-top: 15px;
+  margin-left: 40px;
+  border-radius: 4px;
+  border: 0px solid;
+  background-color: red;
+  color: #E5E7E9;
+}
+.yeddi{
+  padding-top: 20px;
+}
+small{
+  color: #839192 ;
+}

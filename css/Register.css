@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.esas{
+    background-color: pink;
+    height: 700px;
+}
+.kv{
+    width: 360px;
+    height: 360px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 15px;
+    border: 0px solid;
+    outline: 2px solid white;
+}
+.kv h1{
+    text-align: center;
+    padding: 20px 20px;
+}
+#a1{
+    width: 280px;
+    margin: auto;
+}
+#a1 .b1{
+    width: 92%;
+    height: 30px;
+}
+#a2{
+    width: 280px;
+    margin: auto;
+    margin-top: 20px;
+}
+#a2 .b1{
+    width: 92%;
+    height: 30px;
+}
+#a3{
+    width: 280px;
+    margin: auto;
+    margin-top: 10px;
+}
+#a3 p{
+    text-align: center;
+}
+#a4{
+    width: 280px;
+    margin: auto;
+    margin-top: 10px;
+}
+#a4 button{
+    width: 100%;
+    height: 36px;
+    color: black;
+    border-radius: 14px;
+    background-color: white;
+    border: 0px solid;
+}
+#a4 p{
+    text-align: center;
+    padding-top: 15px;
+}
+i{
+    position: absolute;
+    font-size: 26px;
+    margin-top: 4px;
+    margin-left: 254px;
+}
+.b1{
+    padding-left: 20px;
+}
+input{
+    background-color: pink;
+    border: 0px solid;
+    border-bottom: 2px solid white;
+}
